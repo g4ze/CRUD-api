@@ -3,4 +3,6 @@ A fully functional crud API made in Go lang; usage of gorilla mux. No external D
 
 Just download the file, add workspace, get gorilla mux package from github, mod tidy, build, run.
 
-locahost:4000
+localhost:4000
+try=>
+GET,POST,PUT,DELETE localhost:4000/course
